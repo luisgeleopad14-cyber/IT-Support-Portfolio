@@ -1,0 +1,17 @@
+No Internet Connection
+
+  Problem
+User reported no internet access on their workstation, while other devices were working normally.
+
+  Diagnosis
+- Checked physical connections (Ethernet cable and ports)  
+- Verified IP configuration using ipconfig  
+- Identified incorrect IP assignment (no valid gateway)  
+
+  Solution
+- Renewed IP address using network commands  
+- Restarted network adapter  
+- Verified correct DNS and gateway configuration  
+
+  Result
+Internet connection was restored, and the user was able to resume work without further issues.
